@@ -6,6 +6,7 @@ huffman.exe -c book.txt book.huff
 huffman.exe -d book.huff book2.txt
 
 
+
 huffman.exe -c huffman.exe huffman.huff
 
 huffman.exe -d huffman.huff huffman2.exe
